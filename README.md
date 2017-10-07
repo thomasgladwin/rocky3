@@ -215,3 +215,5 @@ If you want to test the effects of different arcitectures or stimulations, you c
 3 Output
 
 See 2.11 for output files. The plot provided after a run command contains, from top to bottom, the modules, and within them, the time series of the neurons per neuron type (first excitatory, then inhibitory). Spikes are plotted as red lines, positive stimulation as a yellow bar, negative stimulation as a purple bar. The membrane potentials are plotted in black.
+
+[![DOI](https://zenodo.org/badge/106125702.svg)](https://zenodo.org/badge/latestdoi/106125702)
